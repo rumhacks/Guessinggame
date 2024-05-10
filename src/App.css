@@ -1,0 +1,56 @@
+.container {
+  width: 500px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 18px;
+  margin-bottom: 20px;
+  padding: auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.input-box {
+  padding: 8px;
+  font-size: 16px;
+  width: 100px;
+}
+
+.submit-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.status {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+nav ul li a:hover {
+  color: #007bff;
+}
+
